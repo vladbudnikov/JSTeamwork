@@ -1,0 +1,119 @@
+﻿body, header, footer, aside, ul, li, h1, h2, div, a {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Calibri;
+    font-size: 19px;
+}
+
+header {
+    height: 150px;
+    background: #C3C3E5;
+}
+
+    header a h1 {
+        font-family: 'Showcard Gothic';
+        font-size: 3.4em;
+        text-align: center;
+        color: #551A8B;
+    }
+
+    header h1:hover {
+        color: white;
+        text-decoration-color: white;
+    }
+
+    header a:hover {
+        color: white;
+        text-decoration-color: white;
+    }
+
+    header ul {
+        list-style-type: none;
+        margin-left: 195px;
+    }
+
+        header ul li {
+            display: inline-block;
+            margin-left: 100px;
+        }
+
+            header ul li a {
+                text-decoration: none;
+                color: #602A7F;
+                font-family: Calibri;
+                font-size: 2em;
+                font-weight: bold;
+            }
+
+body section article {
+    border: 1px solid red;
+    display: block;
+    height: 600px;
+    width: 1000px;
+    margin: 20px auto;
+}
+
+#div-questions {
+    background-color: green;
+    float: left;
+    width: 80%;
+    height: 100%;
+}
+
+#div-progress {
+    background-color: blue;
+    float: right;
+    height: 85%;
+    width: 20%;
+}
+
+#div-hints {
+    background-color: coral;
+    height: 15%;
+    float: right;
+    width: 20%;
+}
+
+#question-box {
+    background-color: yellowgreen;
+    width: 90%;
+    margin: 350px auto;
+    margin-bottom: 0;
+    height: 100px;
+}
+
+.question {
+    background-color: yellow;
+    width: 331px;
+    height: 45px;
+    display: inline-block;
+    margin-left: 45px;
+    text-align: center;
+    vertical-align: middle;
+    word-break: break-word;
+}
+
+#first_line {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#div-progress {
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+#div-progress ul {
+    list-style-type: none;
+}
+
+    #div-progress ul li {
+        margin-left: 15px;
+    }
+
+.white-price {
+    color: white;
+}

@@ -1,0 +1,5 @@
+C:\Users\Svetoslav\Documents\GitHub\JSTeamwork\AnediaJSTeamWork\AnediaJSTeamWork\bin\AnediaJSTeamWork.dll
+C:\Users\Svetoslav\Documents\GitHub\JSTeamwork\AnediaJSTeamWork\AnediaJSTeamWork\bin\AnediaJSTeamWork.pdb
+C:\Users\Svetoslav\Documents\GitHub\JSTeamwork\AnediaJSTeamWork\AnediaJSTeamWork\obj\Debug\AnediaJSTeamWork.csprojResolveAssemblyReference.cache
+C:\Users\Svetoslav\Documents\GitHub\JSTeamwork\AnediaJSTeamWork\AnediaJSTeamWork\obj\Debug\AnediaJSTeamWork.dll
+C:\Users\Svetoslav\Documents\GitHub\JSTeamwork\AnediaJSTeamWork\AnediaJSTeamWork\obj\Debug\AnediaJSTeamWork.pdb
